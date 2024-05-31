@@ -1,13 +1,13 @@
 # Cybersecurity Portfolio
 
 ## About Me
-I am a passionate and dedicated cybersecurity professional with a strong background in penetration testing, network security, and ethical hacking. With one year of hands-on experience as a Junior Penetration Tester at ASD Cyber Security, I have developed a comprehensive understanding of cybersecurity principles and practices. I am committed to continuous learning and staying updated with the latest industry trends and technologies.
+I am a passionate and dedicated cybersecurity professional with a strong background in penetration testing, network security, and ethical hacking. With one year of hands-on experience as a Junior Penetration Tester at ASD Cyber Security, I have developed a comprehensive understanding of cybersecurity principles and practices. I am committed to continuously learning and staying updated with industry trends and technologies.
 
 ## Professional Experience
 
 ### Junior Penetration Tester
-**ASD Cyber Security, [City, State]**  
-*June 2023 – May 2024*
+**ASD Cyber Security, Rajasthan, kota**  
+*June 2022 – july 2023*
 - Conducted comprehensive penetration tests on networks, applications, and systems.
 - Developed and executed security testing plans using tools like Nmap, Metasploit, Burp Suite, and Wireshark.
 - Analyzed findings and prepared detailed reports with actionable recommendations.
@@ -32,8 +32,7 @@ I am a passionate and dedicated cybersecurity professional with a strong backgro
 - **Outcome:** Improved the efficiency of vulnerability assessments by automating repetitive tasks.
 
 ## Certifications
-- **Certified Ethical Hacker (CEH)**, EC-Council, [Year]
-- **CompTIA Security+**, CompTIA, [Year]
+
 
 ## Skills
 - **Penetration Testing:** Nmap, Metasploit, Burp Suite, Wireshark
@@ -46,6 +45,7 @@ I am a passionate and dedicated cybersecurity professional with a strong backgro
 
 ## Contact
 Feel free to contact me for further information or to discuss potential opportunities:
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- Email: singhsuyash069@gmail.com
+- LinkedIn: https://www.linkedin.com/in/suyash03/
+- GitHub: https://github.com/suyashRathor
+- Medium: https://medium.com/@singhsuyash069
